@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introductions on Antonio&#39;s Blog</title>
+    <link>https://Antonio-Chan.github.io/introduction/</link>
+    <description>Recent content in Introductions on Antonio&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 17 Jan 2020 19:10:17 +0800</lastBuildDate>
+    
+	<atom:link href="https://Antonio-Chan.github.io/introduction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Site</title>
+      <link>https://Antonio-Chan.github.io/introduction/site/</link>
+      <pubDate>Fri, 17 Jan 2020 19:10:17 +0800</pubDate>
+      
+      <guid>https://Antonio-Chan.github.io/introduction/site/</guid>
+      <description>About this blog Built in 2020.01.17.</description>
+    </item>
+    
+  </channel>
+</rss>
